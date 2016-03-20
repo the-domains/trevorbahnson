@@ -1,4 +1,4 @@
-name: trevorbahnson
+name: Trevor Bahnson
 favicon: null
 layout_spectrum: 0.4438287417870015
 typography_spectrum: 0.0791804997716099
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.75
   lightness: 0.3330559872556478
   saturation: 0.14847107836976647
-  rhythmicContrast: 0.9699978001881391
+  rhythmicContrast: 1
 purpose: []
