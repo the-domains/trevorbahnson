@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: TREVOR BAHNSON
-datePublished: '2016-03-20T13:58:17.833Z'
-dateModified: '2016-03-20T13:58:17.138Z'
+datePublished: '2016-03-20T14:03:35.669Z'
+dateModified: '2016-03-20T13:58:35.581Z'
 title: ''
 author: []
 authors: []
