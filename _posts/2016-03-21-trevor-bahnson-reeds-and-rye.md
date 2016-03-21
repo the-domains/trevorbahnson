@@ -16,9 +16,9 @@ keywords:
   - trevor
   - festival
   - song
-description: 'By Open Folk Trevor Bahnson (https://m.soundcloud.com/bright-blue-1) Art by Marte (www.martevisual.com) Shot by Fede Petro - California 2015 http://www.openfolk.com.ar http://www.facebook.com/openfolk'
-datePublished: '2016-03-21T01:56:20.340Z'
-dateModified: '2016-03-21T01:52:41.268Z'
+description: ''
+datePublished: '2016-03-21T02:01:01.465Z'
+dateModified: '2016-03-21T01:56:29.664Z'
 author:
   - name: Open Folk
     url: 'https://www.youtube.com/channel/UC1TFj75mMiNmsQ_tucTNbvA'
