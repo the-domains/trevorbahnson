@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Open Folk
-    url: 'https://www.youtube.com/channel/UC1TFj75mMiNmsQ_tucTNbvA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Bcspb_xxoeE'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - folk
@@ -21,7 +17,13 @@ keywords:
   - festival
   - song
 description: 'By Open Folk Trevor Bahnson (https://m.soundcloud.com/bright-blue-1) Art by Marte (www.martevisual.com) Shot by Fede Petro - California 2015 http://www.openfolk.com.ar http://www.facebook.com/openfolk'
-inLanguage: en
+datePublished: '2016-03-21T01:56:20.340Z'
+dateModified: '2016-03-21T01:52:41.268Z'
+author:
+  - name: Open Folk
+    url: 'https://www.youtube.com/channel/UC1TFj75mMiNmsQ_tucTNbvA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Bcspb_xxoeE&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Bcspb_xxoeE'
 title: 'Trevor Bahnson - Reeds & Rye'
-datePublished: '2016-03-21T01:48:44.179Z'
-dateModified: '2016-03-21T01:35:27.532Z'
 sourcePath: _posts/2016-03-21-trevor-bahnson-reeds-and-rye.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
