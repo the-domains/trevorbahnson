@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://trevorbahnson.bandcamp.com'
-  name: Trevor Bahnson
-  favicon: 'http://f1.bcbits.com/img/a3902504311_3.jpg'
-  domain: trevorbahnson.bandcamp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://trevorbahnson.bandcamp.com/releases'
+inLanguage: en
+starred: false
 keywords:
   - high-quality
   - flac
@@ -18,17 +17,20 @@ keywords:
   - reconfiguration
   - download
 description: "Time Away by Trevor Bahnson, released 27 May 2015 1. Time Away 2. What's My Name 3. Reeds And Rye 4. Already Home Time Away is an EP recorded in the summer of 2014 in sunny Los Angeles, CA with the great Christian Hand."
-inLanguage: en
+datePublished: '2016-03-21T01:34:37.268Z'
+dateModified: '2016-03-21T01:32:59.039Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://trevorbahnson.bandcamp.com/releases'
 title: 'Time Away, by Trevor Bahnson'
-datePublished: '2016-03-21T01:32:11.147Z'
-dateModified: '2016-03-21T01:22:18.482Z'
 sourcePath: _posts/2016-03-21-time-away-by-trevor-bahnson.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Trevor Bahnson
+  domain: trevorbahnson.bandcamp.com
+  url: 'http://trevorbahnson.bandcamp.com'
+  favicon: 'http://f1.bcbits.com/img/a3902504311_3.jpg'
 _context: 'http://schema.org'
 _type: MediaObject
 
