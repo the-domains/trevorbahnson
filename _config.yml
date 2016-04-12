@@ -1,6 +1,6 @@
 name: Trevor Bahnson
 favicon: null
-layout_spectrum: 0.43333
+layout_spectrum: 0.72162
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#666666'
     - '#8c8c8c'
   brandStrength: 0.625
-  lightness: 0.3125
-  saturation: 0.75
+  lightness: 0.375
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
