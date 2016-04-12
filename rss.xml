@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Trevor Bahnson]]></title>
         <description><![CDATA[Trevor Bahnson]]></description>
-        <link>https://thegrid.ai/trevorbahnson/</link>
+        <link>http://trevorbahnson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:08:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/trevorbahnson/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 19:56:55 GMT</lastBuildDate>
+        <atom:link href="http://trevorbahnson.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e85a950-bb87-4a65-9654-a1cdeae74e1e.jpg">]]></description>
+            <link>http://trevorbahnson.com/9a3e802d-72e7-4590-9b5b-a9e0bf693dea/index.html</link>
+            <guid isPermaLink="false">9a3e802d-72e7-4590-9b5b-a9e0bf693dea</guid>
+            <pubDate>Tue, 12 Apr 2016 19:56:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reeds And Rye, by Trevor Bahnson]]></title>
             <description><![CDATA[<article><h1>Reeds And Rye, by Trevor Bahnson</h1><p>Reeds And Rye by Trevor Bahnson, released 27 May 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79529c999a0f6b4e8abea16954d4e018efdf58e.jpg"></article>]]></description>
@@ -16,7 +23,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08139a0-4386-4556-b510-d0c0253b9e55.jpg">]]></description>
-            <link>https://thegrid.ai/trevorbahnson/f963ceb6-f491-4815-8e18-7a754ed87ef8/index.html</link>
+            <link>http://trevorbahnson.com/f963ceb6-f491-4815-8e18-7a754ed87ef8/index.html</link>
             <guid isPermaLink="false">f963ceb6-f491-4815-8e18-7a754ed87ef8</guid>
             <pubDate>Sun, 20 Mar 2016 14:02:13 GMT</pubDate>
         </item>
