@@ -1,19 +1,4 @@
-name: Trevor Bahnson
-favicon: null
-layout_spectrum: 0.72162
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#050505'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.72162
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Trevor Bahnson
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: TREVOR BAHNSON
 purpose: []
