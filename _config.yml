@@ -31,6 +31,9 @@ navigation:
   - name: FACEBOOK
     url: 'https://www.facebook.com/trevorbahnsonmusic'
     type: external
+  - name: CONTACT
+    id: 11b8f19d-4113-459b-8272-168bb788e4e9
+    type: content
 favicon: null
 title: TREVOR BAHNSON
 purpose: []
