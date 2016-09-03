@@ -4,7 +4,7 @@
         <description><![CDATA[TREVOR BAHNSON]]></description>
         <link>http://trevorbahnson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 14:50:32 GMT</lastBuildDate>
         <atom:link href="http://trevorbahnson.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trevor Bahnson - Reeds & Rye]]></title>
@@ -40,13 +40,6 @@
             <link>http://trevorbahnson.bandcamp.com/track/reeds-and-rye</link>
             <guid isPermaLink="false">331e13aa-df97-4acb-8bdf-09d98a523e87</guid>
             <pubDate>Tue, 22 Mar 2016 21:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08139a0-4386-4556-b510-d0c0253b9e55.jpg">]]></description>
-            <link>http://trevorbahnson.com/f963ceb6-f491-4815-8e18-7a754ed87ef8/index.html</link>
-            <guid isPermaLink="false">f963ceb6-f491-4815-8e18-7a754ed87ef8</guid>
-            <pubDate>Sun, 20 Mar 2016 14:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
