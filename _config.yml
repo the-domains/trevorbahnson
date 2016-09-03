@@ -1,29 +1,7 @@
-typography_spectrum: 0.89149
-color:
-  brandColors:
-    - '#ffffff'
-    - '#050505'
-    - '#505050'
-    - '#b0b0b0'
-    - '#e34e60'
-  brandStrength: 0.8125
-  lightness: 0.1875
-  saturation: 0.5
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: "\_ "
+favicon: null
 layout_spectrum: 0.20409
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: "\_SHOWS \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ BOOKING \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_MEDIA"
-cta:
-  domain: null
-  bucket: null
-  version: null
+typography_spectrum: 0.89149
 navigation:
   - name: SHOWS
     id: c9257f9c-0b0a-4f80-82f1-87a0b480226f
@@ -34,6 +12,28 @@ navigation:
   - name: BOOKING
     id: 11b8f19d-4113-459b-8272-168bb788e4e9
     type: content
-favicon: null
 title: TREVOR BAHNSON
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#050505'
+    - '#505050'
+    - '#b0b0b0'
+    - '#e34e60'
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
