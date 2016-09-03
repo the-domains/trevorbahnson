@@ -4,8 +4,15 @@
         <description><![CDATA[TREVOR BAHNSON]]></description>
         <link>http://trevorbahnson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:03:00 GMT</lastBuildDate>
         <atom:link href="http://trevorbahnson.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92bee820-45f8-4408-90b3-c2c54d27c950.jpg">]]></description>
+            <link>http://trevorbahnson.com/176d6ddf-1fa1-4166-821a-c873ac5788e2/index.html</link>
+            <guid isPermaLink="false">176d6ddf-1fa1-4166-821a-c873ac5788e2</guid>
+            <pubDate>Wed, 31 Aug 2016 15:36:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trevor Bahnson - Reeds & Rye]]></title>
             <description><![CDATA[<article><h1>Trevor Bahnson - Reeds & Rye</h1><p>By Open Folk Trevor Bahnson (https://m.soundcloud.com/bright-blue-1) Art by Marte (www.martevisual.com) Shot by Fede Petro - California 2015 http://www.openfolk.com.ar http://www.facebook.com/openfolk</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d7d1c3dcfb7f7749ce42cf14ca435082/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FBcspb_xxoeE%2Fmaxresdefault.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://trevorbahnson.com/9a3e802d-72e7-4590-9b5b-a9e0bf693dea/index.html</link>
             <guid isPermaLink="false">9a3e802d-72e7-4590-9b5b-a9e0bf693dea</guid>
             <pubDate>Tue, 12 Apr 2016 19:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reeds And Rye, by Trevor Bahnson]]></title>
-            <description><![CDATA[<article><h1>Reeds And Rye, by Trevor Bahnson</h1><p>Reeds And Rye by Trevor Bahnson, released 27 May 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d79529c999a0f6b4e8abea16954d4e018efdf58e.jpg"></article>]]></description>
-            <link>http://trevorbahnson.bandcamp.com/track/reeds-and-rye</link>
-            <guid isPermaLink="false">331e13aa-df97-4acb-8bdf-09d98a523e87</guid>
-            <pubDate>Tue, 22 Mar 2016 21:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
