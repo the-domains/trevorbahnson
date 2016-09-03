@@ -28,6 +28,9 @@ navigation:
   - name: SHOWS
     id: c9257f9c-0b0a-4f80-82f1-87a0b480226f
     type: content
+  - name: FACEBOOK
+    url: 'https://www.facebook.com/trevorbahnsonmusic'
+    type: external
 favicon: null
 title: TREVOR BAHNSON
 purpose: []
