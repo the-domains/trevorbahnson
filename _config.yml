@@ -1,30 +1,4 @@
-name: "\_ "
-favicon: null
-layout_spectrum: 0.20409
 typography_spectrum: 0.89149
-navigation:
-  - name: SHOWS
-    id: c9257f9c-0b0a-4f80-82f1-87a0b480226f
-    type: content
-  - name: FACEBOOK
-    url: 'https://www.facebook.com/trevorbahnsonmusic'
-    type: external
-  - name: BOOKING
-    id: 11b8f19d-4113-459b-8272-168bb788e4e9
-    type: content
-title: TREVOR BAHNSON
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -36,4 +10,30 @@ color:
   lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20409
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: "\_ "
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: SHOWS
+    id: c9257f9c-0b0a-4f80-82f1-87a0b480226f
+    type: content
+  - name: FACEBOOK
+    url: 'https://www.facebook.com/trevorbahnsonmusic'
+    type: external
+  - name: BOOKING
+    id: 11b8f19d-4113-459b-8272-168bb788e4e9
+    type: content
+favicon: null
+title: TREVOR BAHNSON
 purpose: []
